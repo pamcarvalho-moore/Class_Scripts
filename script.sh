@@ -1,4 +1,3 @@
-
 #!/bin/bash
 #SBATCH  --job-name=class_test
 #SBATCH  --output=ct_output.slurm
